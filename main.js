@@ -7,4 +7,4 @@ window.addEventListener('scroll',() =>{
     nav.classList.remove('scrolled')
   }
 });
-// hlo from ssk on ri
+// j is com
